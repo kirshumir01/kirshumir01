@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/kirshumir)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kirshumir?theme=dark?font=Rokkitt?ext=heatmap)
 
 <!--
 **kirshumir01/kirshumir01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
