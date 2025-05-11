@@ -1,6 +1,6 @@
 <h1 align="center">Добро пожаловать в мой профиль</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Меня зовут <a href="https://career.habr.com/kirshumir" target="_blank">Кирилл</a>.</h3>
+<h3 align="center">Меня зовут Кирилл.</h3>
 <h4 align="center">С 2023 года активно занимаюсь разработкой на Java. Ниже на странице Вы можете ознакомиться с моими проектами.</h4>
 
 ### **Реализованные проекты:**
